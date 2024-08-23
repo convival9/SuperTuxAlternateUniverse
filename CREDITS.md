@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=bjEpyWtgzFA
 
 https://github.com/Up1504/My-supertux-worlds
 
+# cnub66 - New industrial tiles (they were in a pull request on the supertux repository, that pull request was closed though)
+
 # SuperTux Team - some new images and tiles apart from the hume2 tiles are from the media repository and also from actual supertux, although some are changed a little bit (the tropiballs are recolored and the smart tropiball and the bouncing tropiball are recolored + they have glasses to protect their eyes from the sand... that they are literally made out of)
 
 # Beau Buckley - most of the new custom music
