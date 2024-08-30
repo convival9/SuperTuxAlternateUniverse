@@ -8,7 +8,7 @@
   (sector
     (name "main")
     (ambient-light 1 1 1 1)
-    (music "/music/wisphunt.music")
+    (music "/music/airship_remix.music")
     (gravity 10)
     (tilemap
       (draw-target "normal")
@@ -89,9 +89,9 @@
       (scroll-speed-x 0.5)
       (scroll-speed-y 0.5)
       (speed 0.200000003)
-      (image-top "images/background/transparent_up.png")
-      (image "/images/background/bridgeocean-nofade.png")
-      (image-bottom "images/background/transparent_up.png")
+      (image-top "/images/background/misc/transparent_up.png")
+      (image "/images/background/misc/bridgeocean-nofade.png")
+      (image-bottom "/images/background/misc/transparent_up.png")
       (alignment "bottom")
     )
     (tilemap
@@ -502,8 +502,8 @@
     )
     (firefly
       (sprite "images/objects/resetpoints/default-resetpoint.sprite")
-      (x 12336.66602)
-      (y 762.0057373)
+      (x 12336.66406)
+      (y 762.0056763)
     )
     (unstable_tile
       (sprite "images/objects/unstable_tile/snow.sprite")

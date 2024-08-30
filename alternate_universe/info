@@ -1,6 +1,6 @@
 (supertux-level-subset
-  (title (_ "SuperTux - Alternate Universe"))
-  (description (_ "Schrodinger's SuperTux. Imagine a Tux in a box with a star. Until you look in the box, the tux is both SuperTux and Tux at the same time."))
+  (title (_ "SuperTux AU"))
+  (description (_ ""))
   (levelset #f)
   (hide-from-contribs #f)
 )

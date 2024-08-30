@@ -17,9 +17,9 @@
       (scroll-speed-x 0)
       (scroll-speed-y 0)
       (speed 0.1000000015)
-      (image-top "/images/background/cave2.jpg")
-      (image "/images/background/cave2.jpg")
-      (image-bottom "/images/background/cave2.jpg")
+      (image-top "/images/background/snow/cave2.jpg")
+      (image "/images/background/snow/cave2.jpg")
+      (image-bottom "/images/background/snow/cave2.jpg")
     )
     (tilemap
       (draw-target "normal")

@@ -4,4 +4,4 @@ Tux is in his igloo one day, and he wakes up in an alternate universe where all 
 This is a SuperTux 0.5.1 add-on.
 
 # HOW TO INSTALL
-For now, you should wait until stuff like the levels and images have been committed.
+You'll need to put stuff in the data directory of SuperTux 0.5.1

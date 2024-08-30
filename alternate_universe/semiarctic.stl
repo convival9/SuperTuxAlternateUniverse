@@ -4,7 +4,7 @@
   (author "Sefevi")
   (tileset "images/tiles.strf")
   (license "CC-BY-SA 4.0 International")
-  (target-time 71)
+  (target-time 67)
   (sector
     (name "main")
     (ambient-light 1 1 1 1)
@@ -287,7 +287,7 @@
     )
     (firefly
       (sprite "images/objects/resetpoints/default-resetpoint.sprite")
-      (x 6080.828125)
+      (x 6080.827637)
       (y 953.5109253)
     )
     (unstable_tile

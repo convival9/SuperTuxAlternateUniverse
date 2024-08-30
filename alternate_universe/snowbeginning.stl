@@ -385,7 +385,7 @@
     )
     (firefly
       (sprite "images/objects/resetpoints/default-resetpoint.sprite")
-      (x 6561.331543)
+      (x 6561.331055)
       (y 409.3320313)
     )
     (smartball
